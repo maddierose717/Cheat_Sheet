@@ -10,6 +10,8 @@ rmdir: remove an empty folder
 
 rm -r folder: remove a folder and it's contents
 
+history: shows past commands
+
 git ls-files: LISTs all files tracked by Git
 
 cd: Change Directory, essentailly allows you to change your location
