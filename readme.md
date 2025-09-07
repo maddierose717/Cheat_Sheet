@@ -2,6 +2,8 @@ IS601 Linux & Git Cheat Sheet :)
 
 ls: LISTs out the folders or files in your directory - Linux
 
+pwd: Print Working Directory - essentailly Where are you?
+
 git ls-files: LISTs all files tracked by Git
 
 cd: Change Directory, essentailly allows you to change your location
