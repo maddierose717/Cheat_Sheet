@@ -26,4 +26,6 @@ git switch: switches your branch
 
 git merge: merges 2 branches
 
+git clone: copy a repo
+
 
