@@ -1,4 +1,4 @@
-This is my ISO601 Linux and Github Cheat Sheet Repo
+IS601 Linux & Git Cheat Sheet :)
 
 ls: LISTs out the folders or files in your directory-Linux
 
