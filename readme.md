@@ -17,3 +17,11 @@ git status: Answers key questions like; where am I? did I make changes? are thos
 git push: Send all local commits to GitHub
 
 git init: Starts a repo
+
+git branch: tells you which branch you're on
+
+git switch: switches your branch
+
+git merge: merges 2 branches
+
+
