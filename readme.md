@@ -15,3 +15,5 @@ git commit: allows you to comment what happened and to save that version of the 
 git status: Answers key questions like; where am I? did I make changes? are those changes ready to commit? is there any untracked files?
 
 git push: Send all local commits to GitHub
+
+git init: Starts a repo
